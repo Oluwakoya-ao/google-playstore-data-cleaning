@@ -8,7 +8,7 @@ This project focuses on cleaning and preparing a dataset of mobile applications 
 📁 google-playstore-data-cleaning/
 │
 ├── Google_Playstore.ipynb     # Jupyter Notebook with cleaning steps
-├── Google-Playstore.csv       # Original dataset 
+├── Google_playstore_sampled.csv       # Original dataset 
 └── README.md                  # Project documentation
 ```
 
